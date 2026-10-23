@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI — Minimalist Multimodal Chat",
+  "description": "Minimalist dark-themed multimodal AI chat with multi-key failover and provider fallback across Gemini, Groq, and OpenRouter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
